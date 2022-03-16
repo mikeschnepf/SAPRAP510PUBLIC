@@ -1,0 +1,4 @@
+@EndUserText.label: 'Travel query service definition'
+define service ZRAP510_Travel_MS {
+  expose ZRAP510_C_TRAVEL_QUERY_MS;
+}
